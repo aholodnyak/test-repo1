@@ -16,7 +16,10 @@ namespace PartyWorkspace.Web.Controllers
             var ids = new List<Guid>
             {
                 Guid.NewGuid(),
-                Guid.NewGuid(),
+                Guid.NewGuid(),sdasd
+                asd
+                asdd
+                asdasd
                 Guid.NewGuid(),
                 Guid.NewGuid(),
                 Guid.NewGuid()
